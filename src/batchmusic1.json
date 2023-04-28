@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "melanie martinez"},
+                  "SongTitle": {"S": "Pacify Her"},
+                  "AlbumTitle": {"S": "Cry Baby"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "melanie martinez"},
+                  "SongTitle": {"S": "Pacify Her"},
+                  "AlbumTitle": {"S": "Cry Baby"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "melanie martinez"},
+                  "SongTitle": {"S": "Pacify Herss"},
+                  "AlbumTitle": {"S": "Cry Baby"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        }
+      ]
+}
