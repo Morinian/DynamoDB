@@ -1,4 +1,4 @@
-# dio-live-dynamodb
+# Desafio-DynamoDB
 Repositório para o desafio DynamoDB
 
 ### Serviço utilizado
